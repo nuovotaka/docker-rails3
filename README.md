@@ -89,3 +89,6 @@ rm -rf tmp/pids/server.pid
 ```
 docker-compose up
 ```
+
+## SQLiteへの接続
+[TablePlus](https://tableplus.io/)、[DB Browser for SQLite](https://sqlitebrowser.org/)などを使ってデータベースを確認(Mac)
